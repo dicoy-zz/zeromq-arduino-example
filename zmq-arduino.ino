@@ -49,7 +49,6 @@ void setup() {
   delay(1000);
   // start the Ethernet connection:
   /*if (Ethernet.begin(mac) == 0) {*/
-    /*Serial.println("Failed to configure Ethernet using DHCP");*/
     // DHCP failed, so use a fixed IP address:
     Ethernet.begin(mac, ip);
   //}
