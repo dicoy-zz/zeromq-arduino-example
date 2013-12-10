@@ -11,7 +11,7 @@ You need an Ethernet Shield and (optionally) some sensors to be read on analog p
 
 Sends one ZeroMQ message every second to a ZeroMQ PULL socket on 192.168.11.3 port 7000
 This means this code implements the simplest PUSH message.
-It does not implement a full ZeroMQ stack. You shoul use it as a mean of delivering messages to a more stable
+It does not implement a full ZeroMQ stack. You should use it as a mean of delivering messages to a more stable
 router running on a server.
 
  */
