@@ -1,7 +1,7 @@
 zeromq-arduino-example
 ======================
 
-Sending ZeroMQ (ØMQ) messages from Arduino (limited zmq wire protocol implementation)
+Sending [ZeroMQ (ØMQ)](http://zeromq.org) messages from Arduino (limited zmq wire protocol implementation)
 
 You need an Ethernet Shield and (optionally) some sensors to be read on analog pins 0 and 1
 
